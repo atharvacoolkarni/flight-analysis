@@ -8,7 +8,7 @@ The main goals were:
 
 The analysis is based on commercial flight data and combines statistical analysis and machine learning to obtain meaningful insights.
 
-This project was done for University of London's third year course 'Programming for Data Science' during my BSc. Economics degree.
+This project was done for University of London's third year course 'Programming for Data Science' during my BSc. Economics degree. The full coursework question set can be found here <a href="/flight-analysis/st2195_coursework.pdf" target="_blank">ST2195_Coursework (PDF)</a>.
 
 The questions are:
 1. When is the 
@@ -20,4 +20,4 @@ The questions are:
 1. Can you detect cascading failures as delays in one airport create delays in others?
 1. Use the available variables to construct a model that predicts delays.
 
-You can read the full project report on https://atharvacoolkarni.github.io/projects/flight-analysis/
+You can read the full project report on <a href="https://atharvacoolkarni.github.io/projects/flight-analysis/" target="_blank">this page</a>.
