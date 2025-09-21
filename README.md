@@ -21,3 +21,5 @@ The questions are:
 1. Use the available variables to construct a model that predicts delays.
 
 You can read the full project report on <a href="https://atharvacoolkarni.github.io/projects/flight-analysis/" target="_blank">this page</a>.
+
+---
